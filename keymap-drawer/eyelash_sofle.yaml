@@ -126,7 +126,7 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANGUAGE 2
   - '2'
   - {t: '$$mdi:transfer$$', type: trans}
   - END
